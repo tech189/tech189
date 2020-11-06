@@ -20,6 +20,7 @@
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 <img align="left" alt="macOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 
+<!--
 <br />
 
 ### 📊 GitHub Stats:
@@ -27,7 +28,7 @@
 
 ![tech189's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech189&layout=compact&title_color=41b883&text_color=273849)
 
-<!--
+
 **tech189/tech189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
