@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🎓 I’m currently studying Classics (Latin & Greek) at university
+- 🎓 I’m currently studying Computer Science at university
 - 🔭 You'll find some of my personal programming projects here
 - 👨‍💻 My favourite language is Python and I've had the most fun with it
 - 💭 I'd like to learn full stack web dev in the future
-- 🌱 I’m currently learning Linear B, Arabic, and Spanish!
+- 🌱 I’m currently learning French, Arabic, and Spanish!
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
